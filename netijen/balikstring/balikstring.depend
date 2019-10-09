@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508453650 source:c:\users\achmad khodzim\desktop\c++\balikstring\main.cpp
+	<iostream>
+	<string>
+
